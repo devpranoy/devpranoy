@@ -3,7 +3,7 @@ I'm an indie maker who also happens to be good at engineering and producting. I 
 - 🌱 I’m currently learning : SwiftUI
 
 ## Writing ✏️
- - 🤔 I share my thoughts mostly on twitter but I churn out Tech-Philosophy newsletters on my substack at [pranoy.substack.com](https://www.pranoy.substack.com)
+ - 🤔 I share my thoughts mostly on twitter but I churn out Tech-Philosophy newsletters on my substack at [pranoy.substack.com](https://pranoy.substack.com)
  - ⚙️ Occasionally do technical blogs on medium, like this [API Performance Comparison](https://medium.com/innovation-incubator/rest-api-performance-comparison-python-vs-golang-dc4decbd0543). 
  - 🔭 I'm working on a Product Management 101 blog where I share my views and opinions on how tech products should be built. 
 
