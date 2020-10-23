@@ -5,7 +5,7 @@ I'm an indie maker who also happens to be good at engineering and producting. I 
 ## Writing ✏️
  - 🤔 I share my thoughts mostly on twitter but I churn out Tech-Philosophy newsletters on my substack at [pranoy.substack.com](https://pranoy.substack.com)
  - ⚙️ Occasionally do technical blogs on medium, like this [API Performance Comparison](https://medium.com/innovation-incubator/rest-api-performance-comparison-python-vs-golang-dc4decbd0543). 
- - 🔭 I'm working on a Product Management 101 blog where I share my views and opinions on how tech products should be built. 
+ - 🔭 I'm working on a [Product Management 101](https://devpranoy.medium.com/product-management-101-65943f0430ee) blog where I share my views and opinions on how tech products should be built. 
 
 
 ## Work 👨‍💻
