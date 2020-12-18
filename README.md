@@ -1,4 +1,4 @@
-I'm an indie maker who also happens to be good at engineering and producting. I currently work for [Innovation Incubator Advisory](https://www.innovationincubator.com). Previously co-founded 3x tech startups. 
+I'm an indie maker who also happens to be good at engineering and producting. Previously co-founded 3x tech startups. 
 
 - 🌱 I’m currently learning : SwiftUI
 
