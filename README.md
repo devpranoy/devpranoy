@@ -21,6 +21,9 @@ Listing down the cool products I've worked on:
 
 ## Side Projects 👨‍💻
 
+
+- [<b>Sol Tap 🚰</b>](http://solanatap.com/) : It's a web faucet to recieve SOL tokens to fund projects running on testnet and devnet Solana. Enter your solana wallet address and you get 1 SOL on testnet and devnet airdropped to it. 
+
 - [<b>Lipsa</b>](https://play.google.com/store/apps/details?id=com.lipsa.lipsa&hl=en_IN) : It's an AI powered meeting summariser, I wrote the backend APIs, designed and wireframed the product on figma. Laid the groundwork for the flutter application. It's still a work in progress. The app can detect multiple speakers in a meeting and generate dialouge like transcriptions and summarise them. 
 
 - [<b>Holaa Flutter Package</b>](https://pub.dev/packages/holaa) : It's a flutter package I made to integrate [holaa.ai](https://www.holaa.ai) chatbot to any flutter app for implementing a customised knowledge graph based faq bot. 
