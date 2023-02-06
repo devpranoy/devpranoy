@@ -1,6 +1,5 @@
 I'm an indie maker and a Technical Lead at Accubits. Previously co-founded 3x tech startups. 
 
-- 🌱 I’m currently learning : Solana and Rust ⛓️
 
 ## Writing ✏️
  - 🤔 I share my thoughts mostly on twitter but I churn out Tech-Philosophy newsletters on my substack at [pranoy.substack.com](https://pranoy.substack.com)
