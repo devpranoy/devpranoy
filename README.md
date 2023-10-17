@@ -1,4 +1,4 @@
-I'm an indie maker and a Technical Lead at Accubits. Previously co-founded 3x tech startups. 
+I'm an indie maker and a Senior Technical Consultant at Egnyte. Previously co-founded 3x tech startups. 
 
 
 ## Writing ✏️
