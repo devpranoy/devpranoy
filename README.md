@@ -1,35 +1,38 @@
 I'm an indie maker and a Senior Technical Consultant at Egnyte. Previously co-founded 3x tech startups. 
 
 
-## Writing ✏️
+## My Thoughts ✏️
  - 🤔 I share my thoughts mostly on twitter but I churn out Tech-Philosophy newsletters on my substack at [pranoy.substack.com](https://pranoy.substack.com)
- - ⚙️ Occasionally do technical blogs on medium, like this [API Performance Comparison](https://medium.com/innovation-incubator/rest-api-performance-comparison-python-vs-golang-dc4decbd0543). 
-
+ - ⚙️ Occasionally write technical blogs on medium, like this [API Performance Comparison](https://medium.com/innovation-incubator/rest-api-performance-comparison-python-vs-golang-dc4decbd0543).
+ - 🎥 Explained Decentralised Finance concepts on YouTube [Understanding Decentralized Finance - Part 01](https://www.youtube.com/watch?v=pNJebVWB0E4).
+ - 🗣️ Took a session on Deploying custom LLMs using RAGs to production using LLAMA2, Flask and Google Cloud for [Google Developers Group Kozhikode](https://x.com/GDGKozhikode/status/1734132208116682963).
+  
 
 
 ## Work 👨‍💻
 
-Listing down the cool products I've worked on: 
+Listing down some cool stuff I've worked on: 
 
-- [<b>Coinfactory NFT Marketplace </b>](https://icoplatform.tech/whitelabel-nft-marketplace-platform.html) : It's a whitelabel NFT marketplace. I'm responsible for defining the product startegy and technical feasibility research for new feature requirements.  This product has powered 20 NFT marketplaces so far of which 5 are in production and the rest are in development.   
+
+- [<b> DesignBud Figma Plugin </b>](https://www.figma.com/community/plugin/1187783142455654091/designbud?searchSessionId=lyt7zqab-fnb2n7kvhuu) : Built a figma plugin powered by stable diffusion to generate image variants directly on Figma.
+
+- [<b> Accubits Code Documenter </b>](https://marketplace.visualstudio.com/items?itemName=AccubitsInnovationTeam.accubitsdocumenter) : Built a vscode plugin powered by GPT-3 to generate code documentation. 
+
+- [<b>Coinfactory NFT Marketplace and DAO Platfrom </b>](https://coinfactory.tech/) : This product has powered 200+ projects globally!   
 
 - [<b>Medrabbits</b>](https://www.medrabbits.com) : It's a home healthcare startup. Defined the scope, made the technical architecture, wireframes, made the fontend website and contributed to the app development in flutter while managing an engineering team. Took this product from the first line of PRD to the first paying customer, it's currently operating in Pune helping out with COVID-19 testing and home healthcare solutions. 
-
-- [<b>WavNext</b>](https://wavnext.com) : It's a fintech product for the middle east, I was the lead for engineering and product, I setup the core bitcoin lightning network architecture and then made that into a seperate product called [Wavnext Network](https://wavnext.com/network), it served as the core transactional layer on top of which all payments were done. Deployed it's API layers onto pip and npm as an easy to install bitcoin payments layer. This was featured at Kerala Startup Misson's Top 10 pitch event for Huddle Kerala. 
 
 
 ## Side Projects 👨‍💻
 
+- [<b>ezApply</b>](https://ezapply.in) : A SAAS tool for EZ applying to LinkedIN Job Applications that have an eazy apply button. 
 
-- [<b>Sol Tap 🚰</b>](http://solanatap.com/) : It's a web faucet to recieve SOL tokens to fund projects running on testnet and devnet Solana. Enter your solana wallet address and you get 1 SOL on testnet and devnet airdropped to it. 
+- [<b>Lipsa</b>](https://play.google.com/store/apps/details?id=com.lipsa.lipsa&hl=en_IN) : It's an AI powered meeting summariser, I wrote the backend APIs, designed and wireframed the product on figma. Laid the groundwork for the flutter application. The app can detect multiple speakers in a meeting and generate dialouge like transcriptions and summarise them. This has been archived
 
-- [<b>Lipsa</b>](https://play.google.com/store/apps/details?id=com.lipsa.lipsa&hl=en_IN) : It's an AI powered meeting summariser, I wrote the backend APIs, designed and wireframed the product on figma. Laid the groundwork for the flutter application. It's still a work in progress. The app can detect multiple speakers in a meeting and generate dialouge like transcriptions and summarise them. 
-
-- [<b>Holaa Flutter Package</b>](https://pub.dev/packages/holaa) : It's a flutter package I made to integrate [holaa.ai](https://www.holaa.ai) chatbot to any flutter app for implementing a customised knowledge graph based faq bot. 
+- [<b>Holaa Flutter Package</b>](https://pub.dev/packages/holaa) : It's a flutter package I made to integrate [holaa.ai](https://www.holaa.ai) chatbot to any flutter app for implementing a customised knowledge graph based faq bot. This has been archived.
 
 ## Education 📚
-
-- Studied Computer Science and Engineering from Amal Jyothi College of Engineering. 
+- Bachelors in Computer Science from BITS, Pilani
 - Nanodegree in Deep Learning from Udacity
 - Nanodegree in Product Management from Udacity
 - Y-Combinator Startup School Grad. 
