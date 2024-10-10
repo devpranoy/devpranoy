@@ -25,8 +25,6 @@ Listing down some cool stuff I've worked on:
 
 ## Side Projects 👨‍💻
 
-- [<b>ezApply</b>](https://ezapply.in) : A SAAS tool for EZ applying to LinkedIN Job Applications that have an eazy apply button. 
-
 - [<b>Lipsa</b>](https://play.google.com/store/apps/details?id=com.lipsa.lipsa&hl=en_IN) : It's an AI powered meeting summariser, I wrote the backend APIs, designed and wireframed the product on figma. Laid the groundwork for the flutter application. The app can detect multiple speakers in a meeting and generate dialouge like transcriptions and summarise them. This has been archived
 
 - [<b>Holaa Flutter Package</b>](https://pub.dev/packages/holaa) : It's a flutter package I made to integrate [holaa.ai](https://www.holaa.ai) chatbot to any flutter app for implementing a customised knowledge graph based faq bot. This has been archived.
