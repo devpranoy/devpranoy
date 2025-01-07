@@ -25,7 +25,7 @@ Listing down some cool stuff I've worked on:
 
 ## Side Projects 👨‍💻
 
-- [<b>FormulaGPT</b>](/https://www.getformulagpt.com/) : It's an AI tool to perform formula generation/explanation on Excel, Python Scripts, Regular Expressions, Cold Emails etc. I started this project to learn frontend development with Vue and Shadcn-Vue. 
+- [<b>FormulaGPT</b>](https://www.getformulagpt.com/) : It's an AI tool to perform formula generation/explanation on Excel, Python Scripts, Regular Expressions, Cold Emails etc. I started this project to learn frontend development with Vue and Shadcn-Vue. 
 
 - [<b>Holaa Flutter Package</b>](https://pub.dev/packages/holaa) : It's a flutter package I made to integrate [holaa.ai](https://www.holaa.ai) chatbot to any flutter app for implementing a customised knowledge graph based faq bot. This has been archived.
 
